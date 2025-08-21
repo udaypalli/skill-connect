@@ -35,9 +35,9 @@
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Backend**: Java + JSP + Servlet  
+- **Backend**: Java + JSP   
 - **Database**: MySQL  
-- **Integration**: Google Maps API  
+- **Integration**:  Maps API  
 - **Server**: Apache Tomcat  
 - **IDE**: Eclipse  
 - **Platform**: Windows 10+  
