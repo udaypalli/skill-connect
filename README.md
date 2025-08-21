@@ -27,11 +27,8 @@
 
 | Home Page |
 |-----------|
-| ![Home](https://github.com/udaypalli/skill-connect/image.png?raw=true) |
+| ![Home](https://github.com/udaypalli/skill-connect/blob/main/image.png)) |
 
-| Booking Page | Provider Dashboard |
-|--------------|--------------------|
-| ![Booking](https://github.com/udaypalli/skill-connect/blob/main/screenshots/booking.png?raw=true) | ![Dashboard](https://github.com/udaypalli/skill-connect/blob/main/screenshots/dashboard.png?raw=true) |
 
 ---
 
